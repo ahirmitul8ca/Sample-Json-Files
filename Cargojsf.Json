@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Demo Vessel 1",
+        "Type": "Cargo Ship",
+        "MMSI": "123456789",
+        "Latitude": 35.6895,
+        "Longitude": 139.6917,
+        "SpeedKnots": 10.5
+    },
+    {
+        "Name": "Demo Vessel 2",
+        "Type": "Container Ship",
+        "MMSI": "234567890",
+        "Latitude": 40.7128,
+        "Longitude": -74.006,
+        "SpeedKnots": 12.2
+    },
+    {
+        "Name": "Demo Vessel 3",
+        "Type": "Oil Tanker",
+        "MMSI": "345678901",
+        "Latitude": 51.5074,
+        "Longitude": -0.1278,
+        "SpeedKnots": 8.7
+    },
+    {
+        "Name": "Demo Vessel 20",
+        "Type": "Bulk Carrier",
+        "MMSI": "789012345",
+        "Latitude": -33.8688,
+        "Longitude": 151.2093,
+        "SpeedKnots": 14
+    }
+]
